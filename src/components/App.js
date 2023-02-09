@@ -5,9 +5,9 @@ const App = (props) => {
   const [display, setDisplay] = useState(false)
   return (
     <div className="App" id="main">
-      {/* // Do not alter the main div */}
+      // Do not alter the main div
       {/* Create a paragraph with id = para and button with id = click inside div with id = main.
-
+ 
 Acceptance criteria:
 
 para must not be visible during initial render.
